@@ -14,7 +14,7 @@ This project uses OpenCV to measure the distance to a face in real-time video ba
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/face-distance-measurement.git
+    git clone [https://github.com/your-username/face-distance-measurement.git](https://github.com/hm-badhon/Human-Distance-Measuring-from-Robot-using-OpenCV-and-webcam)
     cd face-distance-measurement
     ```
 
