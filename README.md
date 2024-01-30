@@ -2,6 +2,10 @@
 # Face Distance Measurement Project
 
 This project uses OpenCV to measure the distance to a face in real-time video based on a known reference distance and width. The code captures video from a webcam, detects faces, and calculates the distance to the face using the focal length.
+## Demo video
+
+https://github.com/hm-badhon/Human-Distance-Measuring-from-Robot-using-OpenCV-and-webcam/assets/85755347/8dd213f0-0862-4b41-8de0-674ff7e8ac84
+
 
 ## Prerequisites
 
